@@ -1,0 +1,4 @@
+﻿Email address to invite [inviteeEmail] Required,Redirection url [inviteRedirectURL] Required,Send invitation message (true or false) [sendEmail],Customized invitation message [customizedMessageBody],Display name of the user being invited [invitedUserDisplayName]
+guest1@example.com,https://myapps.microsoft.com,TRUE,Welcome to our SC-300 training lab!,SC300 Guest One
+guest2@example.com,https://myapps.microsoft.com,TRUE,Welcome to our SC-300 training lab!,SC300 Guest Two
+guest3@example.com,https://myapps.microsoft.com,TRUE,Welcome to our SC-300 training lab!,SC300 Guest Three
